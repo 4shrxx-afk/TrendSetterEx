@@ -1,0 +1,2 @@
+1.0.0
+https://github.com/4shrxx-afk/TrendSetterEx/releases/download/v1.0.0/TrendSetter.exe
